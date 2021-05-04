@@ -17,6 +17,7 @@
 <br />
 
 ---
-
+Medium
+johnkinyanjuiwanjiru.medium.com
   
 </details>
