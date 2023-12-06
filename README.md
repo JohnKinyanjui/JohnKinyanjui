@@ -2,32 +2,22 @@
 
 ---
 
-I'm a versatile software developer with a passion for learning and collaborating in the tech community. My interests span a wide range of technologies, and I enjoy both the technical and creative aspects of coding.
+Passionate about software development, I enjoy learning new technologies and collaborating with fellow developers. My interests are diverse, ranging from coding to playing the piano.
 
-- 🌱 Expanding my knowledge in various tech domains.
-- 👯 Eager to collaborate with other developers on innovative projects.
-- ⚡ Fun fact: I'm also a piano enthusiast – it's a great creative outlet!
+- 🌱 Continuously expanding my knowledge in various tech domains.
+- 👯 Keen to collaborate on innovative projects.
+- ⚡ Fun fact: I love playing the piano as a creative outlet!
 
-### Languages and Tools:
+### Languages, Databases, and Tools:
 
-Languages:
-- Python 🐍
-- TypeScript 📘
-- Golang 🐹
-- Dart 🎯
-- Rust 🦀
-- SQL 🗃️
-
-Databases:
-- MySQL
-- PostgreSQL
-
-Tools:
-- Visual Studio Code
-- Flutter
-- Django
-- Helix
-- Vim
+| Languages | Databases   | Tools              |
+|-----------|-------------|--------------------|
+| Python 🐍 | MySQL       | Visual Studio Code |
+| TypeScript 📘 | PostgreSQL | Flutter          |
+| Golang 🐹 |             | Django             |
+| Dart 🎯   |             | Helix              |
+| Rust 🦀   |             | Vim                |
+| SQL 🗃️    |             |                    |
 
 ### Connect with me:
 
@@ -35,6 +25,6 @@ Tools:
 
 ---
 
-Always open for a chat about tech, music, or just to say hi! Feel free to reach out.
+I'm always up for a chat about tech, music, or just a casual hello. Feel free to reach out!
 
 </details>
