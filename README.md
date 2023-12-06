@@ -1,22 +1,40 @@
 ### Hi there, I'm John - aka Jakes 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to play piano
+---
 
+I'm a versatile software developer with a passion for learning and collaborating in the tech community. My interests span a wide range of technologies, and I enjoy both the technical and creative aspects of coding.
+
+- 🌱 Expanding my knowledge in various tech domains.
+- 👯 Eager to collaborate with other developers on innovative projects.
+- ⚡ Fun fact: I'm also a piano enthusiast – it's a great creative outlet!
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" object-fit = "cover" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/flutter.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/python.png" />
-<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/golang.png" />
+Languages:
+- Python 🐍
+- TypeScript 📘
+- Golang 🐹
+- Dart 🎯
+- Rust 🦀
+- SQL 🗃️
 
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/django.png" />
-<br />
+Databases:
+- MySQL
+- PostgreSQL
+
+Tools:
+- Visual Studio Code
+- Flutter
+- Django
+- Helix
+- Vim
+
+### Connect with me:
+
+- [Medium](https://johnkinyanjuiwanjiru.medium.com)
 
 ---
-Medium
-johnkinyanjuiwanjiru.medium.com
-  a
+
+Always open for a chat about tech, music, or just to say hi! Feel free to reach out.
+
 </details>
