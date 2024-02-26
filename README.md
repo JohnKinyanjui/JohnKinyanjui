@@ -14,7 +14,7 @@ Passionate about software development, I enjoy learning new technologies and col
 |-----------|-------------|--------------------|
 | Python 🐍 | MySQL       | Visual Studio Code |
 | TypeScript 📘 | PostgreSQL | Flutter          |
-| Golang 🐹 |             | Django             |
+| Golang 🐹 |   SurrealDB          | Django             |
 | Dart 🎯   |             | Helix              |
 | Rust 🦀   |             | Vim                |
 | SQL 🗃️    |             |                    |
